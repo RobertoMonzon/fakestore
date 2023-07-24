@@ -1,0 +1,12 @@
+body{
+    background:linear-gradient(30deg, rgb(20, 16, 241),rgb(14, 180, 252), rgb(22, 11, 178), rgb(9, 207, 234), rgb(6, 0, 128));
+
+}
+
+.row{
+    padding: 3%;
+}
+
+.col{
+    padding-left: 3%;
+}
